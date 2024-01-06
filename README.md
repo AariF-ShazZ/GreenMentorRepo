@@ -29,14 +29,13 @@
 <h3>Screenshots</h3>
 <hr/>
 <div>
+  <h4>For Large Screen</h4>
   <img src="https://github.com/AariF-ShazZ/GreenMentorRepo/blob/main/Screenshot%20(280).png" alt="Error in the Image!"/>
-  <img src="https://github.com/AariF-ShazZ/GreenMentorRepo/blob/main/Screenshot%20(280).png" alt="Error in the Image!"/>
-  <img src="https://github.com/AariF-ShazZ/GreenMentorRepo/blob/main/Screenshot%20(280).png" alt="Error in the Image!"/>
-  <img src="https://github.com/AariF-ShazZ/GreenMentorRepo/blob/main/Screenshot%20(280).png" alt="Error in the Image!"/>
-  <img src="https://github.com/AariF-ShazZ/GreenMentorRepo/blob/main/Screenshot%20(280).png" alt="Error in the Image!"/>
-  <img src="https://github.com/AariF-ShazZ/GreenMentorRepo/blob/main/Screenshot%20(280).png" alt="Error in the Image!"/>
-  <img src="https://github.com/AariF-ShazZ/GreenMentorRepo/blob/main/Screenshot%20(280).png" alt="Error in the Image!"/>
-  <img src="https://github.com/AariF-ShazZ/GreenMentorRepo/blob/main/Screenshot%20(280).png" alt="Error in the Image!"/>
-<!--   ![GitHub Logo](https://raw.githubusercontent.com/AariF-ShazZ/GreenMentorRepo/main/Screenshot%20(279).pnga) -->
-
+  <img src="https://github.com/AariF-ShazZ/GreenMentorRepo/blob/main/Screenshot%20(281).png" alt="Error in the Image!"/>
+  <h4>For Small Screen</h4>
+  <img src="https://github.com/AariF-ShazZ/GreenMentorRepo/blob/main/Screenshot%20(282).png" alt="Error in the Image!"/>
+  <img src="https://github.com/AariF-ShazZ/GreenMentorRepo/blob/main/Screenshot%20(283).png" alt="Error in the Image!"/>
+  <img src="https://github.com/AariF-ShazZ/GreenMentorRepo/blob/main/Screenshot%20(284).png" alt="Error in the Image!"/>
+  <img src="https://github.com/AariF-ShazZ/GreenMentorRepo/blob/main/Screenshot%20(285).png" alt="Error in the Image!"/>
+  <img src="https://github.com/AariF-ShazZ/GreenMentorRepo/blob/main/Screenshot%20(286).png" alt="Error in the Image!"/>
 </div>
