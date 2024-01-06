@@ -29,7 +29,7 @@
 <h3>Screenshots</h3>
 <hr/>
 <div>
-  <img src="https://raw.githubusercontent.com/AariF-ShazZ/GreenMentorRepo/main/Screenshot%20(279).pnga" alt="Image is not showing!"/>
+  <img src="https://raw.githubusercontent.com/AariF-ShazZ/GreenMentorRepo/main/Screenshot%20(279).png" alt="Image is not showing!"/>
 <!--   ![GitHub Logo](https://raw.githubusercontent.com/AariF-ShazZ/GreenMentorRepo/main/Screenshot%20(279).pnga) -->
 
 </div>
